@@ -1,9 +1,8 @@
-# subramanyam_BioHi 👋, I'm Mahender Kore
+# subramanyam_BioHi 👋, I'm subramanyam
 
 Data Analyst
 Coding
 
-mahenderkore
 
 🌱 I’m currently learning Sql,Python,Excel,Power Bi
 
