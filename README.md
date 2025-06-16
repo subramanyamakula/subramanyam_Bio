@@ -1,4 +1,4 @@
-# subramanyam_BioHi 👋, I'm subramanyam
+👋, I'm subramanyam
 
 Data Analyst
 Coding
